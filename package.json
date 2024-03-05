@@ -1,5 +1,5 @@
 {
-  "name": "onedionys-shop-builder",
+  "name": "yorx-shop-builder",
   "version": "2.0.0",
   "description": "One Dionys (Shop Builder) - A package used to make it easier for developers to develop online stores or generate products.",
   "main": "src/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onedionys/onedionys-shop-builder.git"
+    "url": "https://github.com/yorxsm/yorx-shop-builder.git"
   },
   "keywords": [
     "onedionys",
@@ -19,12 +19,12 @@
     "generate-product",
     "generate-product-by-json"
   ],
-  "author": "One Dionys",
+  "author": "yorxsm",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onedionys/onedionys-shop-builder/issues"
+    "url": "https://github.com/yorxsm/yorx-shop-builder/issues"
   },
-  "homepage": "https://github.com/onedionys/onedionys-shop-builder#readme",
+  "homepage": "https://github.com/yorxsm/yorx-shop-builder#readme",
   "devDependencies": {
     "chai": "^5.1.0",
     "mocha": "^10.3.0"
